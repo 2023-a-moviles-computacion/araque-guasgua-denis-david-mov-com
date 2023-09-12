@@ -86,7 +86,6 @@ class ESqliteHelperDuenioMascota(
         baseDatosLectura.close()
         return lista
     }
-
     fun actualizarDuenio(id1:Int, nombre:String, fecha:String, activo:String, salario:String, edad:String ):Boolean{
         var lista= DuenioBDD.TablaDuenio!!.listarDuenios()
         val id=lista[id1].idDuenio.toString()
@@ -194,6 +193,4 @@ class ESqliteHelperDuenioMascota(
         conexion.close()
         return if (resultadoEliminacion.toInt() == -1) false else true
     }
-
-
 }

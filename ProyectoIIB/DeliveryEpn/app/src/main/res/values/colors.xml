@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#5177A9</color> <!-- Violeta suave -->
+    <color name="purple_500">#325298</color> <!-- Violeta oscuro -->
+    <color name="purple_700">#1B3C82</color> <!-- Violeta intenso -->
+    <color name="teal_200">#95D0F7</color> <!-- Verde aguamarina claro -->
+    <color name="teal_700">#4884CC</color> <!-- Verde aguamarina oscuro -->
+    <color name="black">#000000</color> <!-- Negro -->
+    <color name="white">#FFFFFF</color> <!-- Blanco -->
+    <color name="green">#0096ff</color> <!-- Verde brillante -->
+    <color name="green_accent">#0096ff</color> <!-- Verde oscuro -->
+    <color name="orange">#FF7F00</color> <!-- Naranja brillante -->
+    <color name="gray">#4884CC</color> <!-- Gris medio -->
+    <color name="gray_light">#BDBDBD</color> <!-- Gris claro -->
+    <color name="blue_dark">#00008B</color> <!-- Azul oscuro -->
+    <color name="red_dark">#8B0000</color> <!-- Rojo oscuro -->
+    <color name="green_exceptional">#00FFFF</color> <!-- Verde brillante -->
+</resources>
